@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ladydanes
 - 👀 I’m interested in Health and Life Sciences interoperablity.
-- 🌱 I’m currently learning all about FHIR :)
+- 🌱 I’m currently learning all about healthcare AI pipelines.
 - 💞️ I’m looking to collaborate on all things on the horizon for health and life sciences interop.
 - 📫 How to reach me ... dana.kau@microsoft.com
 
